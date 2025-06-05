@@ -29,6 +29,7 @@ body {
     border-radius: 1rem;
     color: white;
     padding: 1.875rem 2.5rem;
+    backdrop-filter: blur(40px);
     
 }
 
